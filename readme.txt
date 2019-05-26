@@ -1,4 +1,4 @@
-We provide the R-code to compute the estimators in the real date analysis of Section 4 and in the simulations of Section 5 
+The R scripts to compute the estimators in the real data analysis of Section 4 and in the simulations of Section 5 
 of the paper. The code consists of the following files: 
 
 "main_n_par.R"      estimate parameters for the Gaussian model in the simulations
